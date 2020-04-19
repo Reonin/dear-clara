@@ -128,7 +128,10 @@ margin-top: 20%;
 }
 .clip-ellipse {
 clip-path:ellipse(180px 222px at 163px 207px);
-
+-webkit-clip-path:ellipse(180px 222px at 163px 207px);
+-moz-clip-path:ellipse(180px 222px at 163px 207px);
+-o-clip-path:ellipse(180px 222px at 163px 207px);
+-ms-clip-path:ellipse(180px 222px at 163px 207px);
   }
 
 #envelope{
